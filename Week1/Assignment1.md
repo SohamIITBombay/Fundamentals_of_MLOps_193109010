@@ -19,6 +19,6 @@ Linear regression has several markers indicative of its interpretability:
 - R-square value: R^2 = 1 - (Squared sum of errors/Sum of variance) - Indicates proportion of variance explained by the model
 - t-statistic: it is the estimated weight scaled by its corresponding standard error.
 
-3.
 
 Part 2:
+![image](AWS_console.png)
